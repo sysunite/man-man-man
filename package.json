@@ -1,0 +1,22 @@
+{
+  "name": "manmanman",
+  "version": "0.0.1",
+  "license": "GPL-3.0",
+  "description": "Man man man",
+  "author": {
+    "name": "Mohamad Alamili",
+    "url": "https://github.com/sysunite/manmanman",
+    "email": "mohamad@sysunite.com"
+  },
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sysunite/manmanman"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "bin": {
+    "manmanman": "./bin/index.js"
+  }
+}
