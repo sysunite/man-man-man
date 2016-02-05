@@ -1,6 +1,6 @@
 {
   "name": "manmanman",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "license": "GPL-3.0",
   "description": "Man man man",
   "author": {
@@ -13,10 +13,10 @@
     "type": "git",
     "url": "https://github.com/sysunite/manmanman"
   },
-  "engines": {
-    "node": ">=0.8"
-  },
   "bin": {
-    "manmanman": "./bin/index.js"
+    "manmanman": "./index.js"
+  },
+  "dependencies": {
+    "play-sound": "0.0.7"
   }
 }
