@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-process.title = 'manmanman';
+process.title = 'man-man-man';
 
 var print = function() {
   process.stdout.write("man ");

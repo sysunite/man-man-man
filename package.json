@@ -1,20 +1,20 @@
 {
-  "name": "manmanman",
-  "version": "0.0.3",
+  "name": "man-man-man",
+  "version": "0.0.6",
   "license": "GPL-3.0",
-  "description": "Man man man",
+  "description": "Man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man",
   "author": {
     "name": "Mohamad Alamili",
-    "url": "https://github.com/sysunite/manmanman",
+    "url": "https://github.com/sysunite/man-man-man",
     "email": "mohamad@sysunite.com"
   },
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sysunite/manmanman"
+    "url": "https://github.com/sysunite/man-man-man"
   },
   "bin": {
-    "manmanman": "./index.js"
+    "man-man-man": "./index.js"
   },
   "dependencies": {
     "play-sound": "0.0.7"
